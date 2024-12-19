@@ -22,6 +22,7 @@ A **real-time chat system** built with modern web technologies:
 
 ## 📂 Project Structure
 
+```
 📦 chat-system
 ├── 📁 backend
 │   ├── 📁 controllers
@@ -37,7 +38,7 @@ A **real-time chat system** built with modern web technologies:
 │   │   ├── 📁 pages
 │   │   ├── 📄 App.js
 │   │   ├── 📄 index.js
-
+```
 
 ---
 
@@ -76,7 +77,7 @@ $ npm install
 ### 3. Start the application
 #### Backend
 ```bash
-$ npm run server
+$ npm start
 ```
 #### Frontend
 ```bash
