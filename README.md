@@ -22,12 +22,14 @@ A **real-time chat system** built with modern web technologies:
 
 ## 📂 Project Structure
 
-```
 📦 chat-system
 ├── 📁 backend
-│   ├── 📁 config
 │   ├── 📁 controllers
+│   ├── 📁 db
+│   ├── 📁 middleware
+│   ├── 📁 models
 │   ├── 📁 routes
+│   ├── 📁 utils
 │   ├── 📄 server.js
 ├── 📁 frontend
 │   ├── 📁 src
@@ -35,7 +37,7 @@ A **real-time chat system** built with modern web technologies:
 │   │   ├── 📁 pages
 │   │   ├── 📄 App.js
 │   │   ├── 📄 index.js
-```
+
 
 ---
 
